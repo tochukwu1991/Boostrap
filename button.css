@@ -1,0 +1,8 @@
+.btn-success,
+.btn-success:hover,
+.btn-success:active,
+.btn-success:visited,
+.btn-success:focus {
+    background-color: #8064A2;
+    border-color: #8064A2;
+}
